@@ -70,11 +70,8 @@ Data Viz [Tableau]
 - 6 Month Sell Quantity Demand Forecast: ![image](https://github.com/mkowalczyk0/Retail-Sales-Proj/assets/151803531/0ff0c9eb-210e-4e15-b5c0-ba7715bb5faf)
 - 6 Month Revenue Forecast: ![image](https://github.com/mkowalczyk0/Retail-Sales-Proj/assets/151803531/f0f56eac-e348-49bb-ba61-907b02c4a900)
 
-**Completed Dashboard:**![image](https://github.com/mkowalczyk0/Retail-Sales-Proj/assets/151803531/c9c9f78a-1096-43b1-bf48-3ca16af5229f)
-
-
+**Completed Dashboard:** ![](https://github.com/mkowalczyk0/Retail-Sales-Proj/blob/main/Tableau/Tableau.gif)
  
- Dashboard in Action:  
  
 Credits
 -
