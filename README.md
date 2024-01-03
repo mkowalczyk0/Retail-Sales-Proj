@@ -1,5 +1,5 @@
 # Retail-Sales-Proj
-Data Analysis of Retail Sales - [SQL] [Tableau] [Excel] [Weka ML]
+Data Analysis of Retail Sales - [SQL] [Tableau] [Excel]
 
 ```The Purpose of this analysis will be to analyze sales, products, customers and more, in order to potentially understand what products sell best where, identify unusual behaviors that might lead fraud investigations, forecast demand, create a promotional strategy.```
 
