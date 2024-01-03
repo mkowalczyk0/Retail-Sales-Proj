@@ -15,7 +15,7 @@ Understanding the Data
 - UnitPrice: The price per unit of the product in sterling. (Numeric)
 - Country:	The country where the customer resides. (Nominal)
 
-Data Prep/Cleaning
+Data Prep/Cleaning [Excel]
 -
 - New Attributes
   - 'InvoiceNo' contains letter "C" indicating a canceled invoice. Created a new column 'IsCanc' that denominates a canceled order by using a nested IF function, searching for value = "C", if true, the output will be yes.
