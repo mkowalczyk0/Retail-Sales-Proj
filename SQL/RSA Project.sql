@@ -13,7 +13,7 @@ CREATE TABLE online_retail (
     PRIMARY KEY (`index`)
 );
 
-
+ 
 SELECT * FROM online_retail;
 
 
